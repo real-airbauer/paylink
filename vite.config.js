@@ -8,5 +8,7 @@ export default defineConfig({
   // is named <username>.github.io, in that case, you can leave
   // the line commented or set the base to '/'
   // base: '/paylink/',
+  base: '/paylink/'
+  
   plugins: [react()]
 })
